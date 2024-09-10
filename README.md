@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar github fork setting
+belajar github fork
