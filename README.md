@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-commit 3
+komit 3
